@@ -1,4 +1,0 @@
-INDEX VERSION 1.130+C:\myWebApp\ChuMeet\ChuMeet_GitHub\chumeet_web\.metadata\.plugins\org.eclipse.jdt.core
-1670515146.index
-2146606981.index
-199014621.index
