@@ -4,8 +4,6 @@ package com.wei.clubjson;
 
 import java.sql.Timestamp;
 
-import oracle.sql.TIMESTAMP;
-
 public class ClubVO {
 	private Integer clubId;
 	private Integer clubMemId;
